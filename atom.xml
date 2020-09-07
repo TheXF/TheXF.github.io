@@ -34,7 +34,7 @@
     <link href="http://example.com/2020/09/05/second/"/>
     <id>http://example.com/2020/09/05/second/</id>
     <published>2020-09-05T15:13:53.000Z</published>
-    <updated>2020-09-05T15:33:51.954Z</updated>
+    <updated>2020-09-07T05:47:43.622Z</updated>
     
     <content type="html"><![CDATA[<p> &#x7684;&#x8BF4;&#x6CD5;&#x7B2C;&#x4E09;&#x65B9;</p>]]></content>
     
@@ -47,7 +47,7 @@
     
     
     
-    <category term="algorithm" scheme="http://example.com/categories/algorithm/"/>
+    <category term="经典算法" scheme="http://example.com/categories/%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95/"/>
     
     
   </entry>
